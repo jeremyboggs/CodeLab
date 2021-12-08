@@ -7,11 +7,11 @@ Welcome to a course on the foundations of coding and digital humanities
 
 ## Schedule
 
-* [Week 01: Introduction to CodeLab, environment setup, using the command line]('Week01')
-* [Week 02: Python, the Python interactive interpreter, and data]('Week02')
-* [Week 03: Data types, functions, conditionals]('Week03')
-* [Week 04: Loops, Git]('Week04')
-* [Week 05: More program flow, algorithms, file input/output]('Week05')
+* [Week 01: Introduction to CodeLab, environment setup, using the command line](Week01)
+* [Week 02: Python, the Python interactive interpreter, and data](Week02)
+* [Week 03: Data types, functions, conditionals](Week03)
+* [Week 04: Loops, Git](Week04)
+* [Week 05: More program flow, algorithms, file input/output](Week05)
 * [Week 06: Debugging strategies (feat. Brandon)](Week06)
 * [Week 07: Classes](Week07)
 * [Week 08: Import, the Python Standard Library](Week08)
