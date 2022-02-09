@@ -19,6 +19,20 @@ body {
     margin: 2rem auto;
 }
 
+a,:link {
+    color: white;
+}
+a:visited {
+    color: #eee;
+    color: rgba(255,255,255,0.6);
+}
+
+a:focus, a:hover {
+    color: #eee;
+    color: rgba(255,255,255,0.6);
+    background:rgba(255,255,255,0.025);
+}
+
 h1:first-of-type {
     font-weight:100;
     color: #fff;
