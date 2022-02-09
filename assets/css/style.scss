@@ -10,6 +10,7 @@ html,body {
 
 html {
     background-color: rgb(47, 62, 70);
+    color: #fff;
     font: 20px/1.625em Quicksand, sans-serif;
 }
 
@@ -18,3 +19,9 @@ body {
     margin: 2rem auto;
 }
 
+h1:first-of-type {
+    font-weight:100;
+    color: #fff;
+    color: rgba(255,255,255,0.8);
+    font-size: 4rem;
+}
