@@ -2,6 +2,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap');
+@import url('murphy.css');
 
 html,body {
     margin:0;
@@ -44,6 +45,7 @@ div.highlighter-rouge {
     background: white;
     padding: 1rem;
     border: 10px solid rgba(0,0,0,0.05);
-    border-width: 10px 0;
+    border-width: 40px 0 0;
     color: darkblue;
+    border-radius: 20px 0 0;
 }
