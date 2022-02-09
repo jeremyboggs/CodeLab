@@ -41,11 +41,22 @@ h1:first-of-type {
     font-size: 4rem;
 }
 
+h2 {
+    border-top: 1px dotted rgb(132, 169, 140);
+    padding-top:1rem;
+}
+
+h2,h3,h4 {
+    margin-top: 3rem;
+    margin-bottom:0;
+}
+
+
 div.highlighter-rouge {
     background: white;
     padding: 1rem;
     border: 10px solid rgba(0,0,0,0.05);
     border-width: 40px 0 0;
     color: darkblue;
-    border-radius: 20px 0 0;
+    border-radius: 10px 10px 0 0;
 }
